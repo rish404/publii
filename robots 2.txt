@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://magica.in/sitemap.xml
