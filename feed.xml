@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>MAGICA By Rish Agarwal</title>
     <link href="https://magica.in/feed.xml" rel="self" />
     <link href="https://magica.in" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://magica.in/10-most-important-questions-to-ask-your-wedding-photographer/"/>
         <id>https://magica.in/10-most-important-questions-to-ask-your-wedding-photographer/</id>
+        <media:content url="https://magica.in/media/posts/129/PT_Day3_255.webp" medium="image" />
 
         <updated>2022-10-29T03:31:21+05:30</updated>
             <summary>
@@ -26,9 +27,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://magica.in/media/posts/129/PT_Day3_255.webp" alt="Best Indian Wedding Photographer USA New Delhi India" />
+                    <p><img src="https://magica.in/media/posts/129/PT_Day3_255.webp" class="type:primaryImage" alt="Best Indian Wedding Photographer USA New Delhi India" /></p>
                 <p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Wedding photography is no easy subject. There are a lot of things to consider when interviewing potential photographers, and it can be tough to know where to start. However, taking the time to interview a few different wedding photographers before making a decision can be very helpful. Here are a few things to keep in mind when interviewing potential </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"><a href="https://magica.in/tags/weddings/">wedding photographers</a>:</span></p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/PN_Day2_Wedding_306.jpeg" data-is-external-image="true"  alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="469"></figure>
+<figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/PN_Day2_Wedding_306.jpeg" alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="469" data-is-external-image="true"></figure>
 <div>
 <div> </div>
 <div><strong>1. Personality.</strong> It's important to find a photographer whose personality meshes well with your own. After all, you'll be spending a lot of time with this person on your wedding day!</div>
@@ -42,7 +43,7 @@
 <h2><strong>1. What is your primary style?</strong></h2>
 <div>As they say, “beauty lies in the eyes of the beholder”, creativity is subjective. There are many different kinds of wedding photographers. Some are primarily photojournalists and like to capture everything in a documentation style. Others are more of fine-art and fashion influenced photographers who like to have a distinct and unique style in their photos.  While some are <a href="https://magica.in/bright-and-airy-wedding-photographer/">bright and airy wedding photographers</a>. It all boils down to what you'd like to have at your wedding. So you should make your decision accordingly.</div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/Before_After_002.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="470"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/Before_After_002.jpg" alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="470" data-is-external-image="true"></figure></div>
 <h2><strong>2. How many weddings they have shot, similar to </strong><strong>yours?</strong></h2>
 <div>Are you going to have a <a href="https://magica.in/how-to-plan-an-indian-wedding-a-step-by-step-guide-for-2022-2023/">big fat Indian wedding</a>? Or are you having a <u>beach wedding</u>? How about an <a href="https://magica.in/the-roof-top-wedding-of-tricia-and-hemant/">intimate rooftop wedding</a> with limited amount of guests? If a potential wedding photographer has photographed something similar, it might work as a solid proof of work and can induce much more confidence in you to be able to hire them.</div>
 <h2><strong>3. For how long have you been doing wedding photography?</strong></h2>
@@ -50,26 +51,26 @@
 <div> </div>
 <div>For example, in this wedding it started raining towards the end. I had a real possibility of my camera getting non-functional, but I still took the risk and made the following photo which, till date, is the favourite photo of this bride:</div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/5.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/5.jpg" alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468" data-is-external-image="true"></figure></div>
 <div>An experienced wedding photographer can be a life saviour in such cases.</div>
 <h2><strong>4. How many other weddings are you doing that weekend?</strong></h2>
 <div>Larger wedding studios (like Magica By Rish Agarwal) will often have multiple wedding bookings for the same dates because they do have the required team and resources for everything. But smaller wedding companies and studios might promise to multiple clients and back out at the last moment due to unavailability of the team. Be very cautious about this and only choose a well established brand of wedding photography company which has a solid proof of work, history, and references.</div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/AR_Engagement_Blog_095.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/AR_Engagement_Blog_095.jpg" alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468" data-is-external-image="true"></figure></div>
 <h2><strong>5. Will you be making a contract?</strong></h2>
 <div>I know, contract is a scary word. But trust me, if you find a wedding photographer who does make contracts, it's a huge green flag. Because contracts protect you as a client more than anything else. Contracts act as a written promise of deliverables and timelines, which is very important for you to have as a client. Often, with so many weddings and <a href="https://magica.in/investment/">customized packages</a> for each, it's very easy to forget what specific detailed deliverables were promised to a specific client. The contract sheet solves that.</div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468" data-is-external-image="true"></figure></div>
 <h2><strong>6. In how much time will you deliver my wedding photos and videos?</strong></h2>
 <div>This one is very important, both from the perspective of the client and the photographer. I have, in my personal experience, seen a lot of clients immediately asking for photos &amp; videos few days after their wedding gets done. We understand, you're incredible excited to see your wedding photos (and so are we!) but all good things take time. So it's important to set the eight expectations on when your precious wedding photos and videos will get delivered. </div>
 <p class="msg msg--highlight ">At Magica By Rish Agarwal, we usually take 4 weeks to deliver your wedding photos and 8 weeks to deliver your <a href="https://magica.in/indian-wedding-videographer-wedding-films/">wedding videos</a> and wedding film while still maintaining our world-class quality, and we're continuously working to bring those times down</p>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Neha_Aditya_01.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Neha_Aditya_01.jpg" alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468" data-is-external-image="true"></figure></div>
 <h2><strong>7. Do you have backups?</strong></h2>
 <div>This question might save your wedding, and we're not exaggerating here. We have, at least, heard from 5 brides this year that their photographer lost all the data, and now they're left with no photos from their wedding (except from any iPhone shots their friends &amp; families might have captured). This is extremely rare, but also extremely common with cheaper photographers. To cut costs, and give you wedding photography for cheap, they do no invest money in solid backup equipments and ultimately have a single point of failure.</div>
 <p class="msg msg--highlight ">At Magica By Rish Agarwal, we're paranoid about backups. We take<strong> THREE</strong> backups of the same data on the day, at the venue of the wedding, and more when we get back to post-processing. Even after delivering everything to you, we keep all your wedding photos and videos data for at least 1 year, for those cases where brides might ask again for their photos since their computer suddenly got formatted!</p>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/PT_Day3_255.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/PT_Day3_255.jpg" alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468" data-is-external-image="true"></figure></div>
 <h2><strong>8. If my wedding takes longer than scheduled, do you charge extra?</strong></h2>
 <div>This is actually a really great question, especially if you're having an Indian wedding. It's a well established fact that everything in an Indian wedding is rarely on time. At least, in our over a decade of wedding photography experience, we haven't seen even a single wedding that had everything on time. A lot of photographers charge by the hour, so you're bound to pay extra for things that were beyond your control.</div>
 <p class="msg msg--success">At Magica By Rish Agarwal, we do <strong>NOT</strong> charge by the hour and instead, by the day. Which means, you can even have multiple events in a single day, and you'll still not pay anything extra :)</p>
@@ -77,7 +78,7 @@
 <div>If there's one thing the pandemic has taught is, is that there's a very real possibility of a wedding getting rescheduled or even cancelled. At those time, the brides are the ones that are on for losing a lot of money, especially from the wedding venues. So, before booking your wedding photographer, you should prepare for the worst case scenario and ask what their rescheduling or cancellation policies are.</div>
 <p class="msg msg--success">At Magica By Rish Agarwal, if in a rare instance, your wedding is rescheduled, we do not charge anything additional other than the 50% retainer amount you had paid. In case of cancellation, we refund 50% of the retainer amount too.</p>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/NK_Day2_319.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/NK_Day2_319.jpg" alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468" data-is-external-image="true"></figure></div>
 <h2><strong>10. Do they also offer wedding video / cinematography? </strong></h2>
 <div>Video or cinematography is a very important part of the whole wedding experience. Sure, a photo speaks a thousand words, but there's a different feeling when you see your wedding video played in an impeccable cinematic style, with your story unfolding as your wedding is going on. We have seen brides cry when we're presenting their wedding film to them. So investing in great wedding cinematography with photography would be our recommendation.</div>
 <div>
@@ -86,7 +87,7 @@
 </div>
 <div>At Magica, we offer everything from wedding photography to <a href="https://magica.in/indian-wedding-videographer-wedding-films/">wedding cinematography</a> and films to our couples!</div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/AnshNitika_Blog_RishPhotography_083.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/AnshNitika_Blog_RishPhotography_083.jpg" alt="Best Indian Wedding Photographer USA New Delhi India" width="702" height="468" data-is-external-image="true"></figure></div>
 <div> </div>
 <h2><strong>About Magica By Rish Agarwal</strong></h2>
 <div>Magica is an award-winning Indian wedding photography brand founded by Rish Agarwal. We have experience of shooting 100+ weddings over 10 years of experience. We offer complete packages of wedding photography and videography and can shoot your wedding anywhere in the world, as long as there's a way to reach there :)</div>
@@ -116,27 +117,27 @@
                 <p>India is a land of many cultures and colours. It's a well known fact that Indian weddings are one of the most interesting weddings in the whole world. Anyone who has ever been to any <a href="https://magica.in/tags/weddings/">Indian wedding</a> would tell you about the surreal experience they would've had. Not just the Indian hospitality and food, but just the overall aura in the air when two people are getting married in India is just unmatched. This is probably why Indians have one of the most grand weddings of any culture worldwide.</p>
 <div> </div>
 <div>While there's a section of society that wants that lavish, big-fat Indian wedding, there are also some brides who like to keep it minimal and classy. For such brides, there's always an option of a minimalistic temple wedding in India. If you're a bride and are looking to get married in a temple, let us share some of our recommendations with you.</div>
-<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/bJbBBwjG/December-01-2018071737-HLMA10115.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="702" height="468"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/Hn9PTvnd/December-01-2018075120-HLMA10116.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="534" height="800"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/bJbBBwjG/December-01-2018071737-HLMA10115.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="702" height="468" data-is-external-image="true"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/Hn9PTvnd/December-01-2018075120-HLMA10116.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="534" height="800" data-is-external-image="true"></figure>
 <p> </p>
 <h2><strong>Why get married in a temple?</strong></h2>
 <div>There are many reasons why couples choose to get married inside a temple. For some, it is a way to connect with their religious roots and to have a traditional ceremony that is steeped in meaning. For others, it is a way to create a more intimate and personal setting for their wedding day. Whatever the reason, getting married inside a temple can be a very special and memorable experience.<br><br>One of the main reasons why couples decide to get married inside a temple is because of the religious significance. In many religions, marriage is seen as a sacred union between two people. By getting married inside a temple, couples are able to show their commitment to each other in a very public and symbolic way. Additionally, they may also have access to religious resources and support that can help them through their marriage.</div>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/Vv8VQPYK/December-01-2018075125-HLMA201691.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="533" height="800"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/pLT1tZHM/December-01-2018091041-HLMA102921.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="539" height="800"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/TYT4txNw/December-01-2018092123-HLMA10302.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="534" height="800"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/Vv8VQPYK/December-01-2018075125-HLMA201691.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="533" height="800" data-is-external-image="true"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/pLT1tZHM/December-01-2018091041-HLMA102921.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="539" height="800" data-is-external-image="true"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/TYT4txNw/December-01-2018092123-HLMA10302.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="534" height="800" data-is-external-image="true"></figure>
 <h2><strong>What's the significance of religious ceremony in Hindu weddings?</strong></h2>
 <div>Wedding is a religious event in India. Even though it's celebrated with great pomp and show and with multiple events across several days, the core of a Hindu wedding ceremony is always religious. The bond of a husband and wife is considered sacred in Hindu culture. And what better place to solemnize your sacred bond than getting married inside a temple?</div>
 <div> </div>
 <div>Another reason why couples may choose to get married inside a temple is because it can create a more intimate setting for their wedding day. While a traditional wedding ceremony may take place in a large hall or church with hundreds of guests in attendance, a temple wedding can be a much more intimate affair.</div>
-<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/0NKWzyjt/December-01-2018102914-HLMA20463.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="702" height="500"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/gJ9M8b6G/December-01-2018105731-HLMA10411.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="702" height="519"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/0NKWzyjt/December-01-2018102914-HLMA20463.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="702" height="500" data-is-external-image="true"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/gJ9M8b6G/December-01-2018105731-HLMA10411.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="702" height="519" data-is-external-image="true"></figure>
 <p>For couples who are looking to have a more personal and intimate wedding day, getting married in a temple can be the perfect solution. While temples may not be as large or lavish as some other wedding venues, they can provide a more intimate and spiritual setting for your big day.<br><br>If you and your partner are both religious, getting married in a temple can be a very meaningful way to start your life together. Even if you're not religious, a temple can still be a beautiful and unique place to get married.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/jSF3q7xw/December-01-2018111211-HLMA205131.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="533" height="800"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/CLJ6t294/December-01-2018111354-HLMA20514.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="702" height="467"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/jSF3q7xw/December-01-2018111211-HLMA205131.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="533" height="800" data-is-external-image="true"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://i.postimg.cc/CLJ6t294/December-01-2018111354-HLMA20514.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="702" height="467" data-is-external-image="true"></figure>
 <p> </p>
 <div>Before you decide on a temple as your wedding venue, there are a few things to keep in mind. First, make sure that the temple you choose is willing to host weddings. Some temples only allow religious ceremonies, so it's important to check with the temple beforehand. Also, keep in mind that you may need to make some adjustments to your wedding plans to accommodate the temple's rules and regulations.</div>
 <div>Overall, choosing a temple as your wedding venue can be a great option. Just be sure to do your research ahead of time and be prepared to make some adjustments to your plans.</div>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/vBW0v2Wf/December-01-2018130621-HLMA20579.jpg" data-is-external-image="true"  alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="533" height="800"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://i.postimg.cc/vBW0v2Wf/December-01-2018130621-HLMA20579.jpg" alt="Indian Temple Pre Wedding Photography-Best Wedding Photographer India" width="533" height="800" data-is-external-image="true"></figure>
 <p>So if you're also a similar bride and groom or a couple who are looking to have a temple wedding in India and are looking for <a href="https://magica.in/best-wedding-photographer-in-delhi-india/">best wedding photographer in India</a>, be sure to contact us.</p>
 <p class="align-center"><a href="https://magica.in/contact/" class="btn">Contact Us</a></p>
             ]]>
@@ -149,6 +150,7 @@
         </author>
         <link href="https://magica.in/best-indian-destination-wedding-photographer-udaipur/"/>
         <id>https://magica.in/best-indian-destination-wedding-photographer-udaipur/</id>
+        <media:content url="https://magica.in/media/posts/122/Sneha_Aniket_Blog_290.webp" medium="image" />
             <category term="Learn Photography"/>
 
         <updated>2022-11-04T23:03:22+05:30</updated>
@@ -160,37 +162,37 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://magica.in/media/posts/122/Sneha_Aniket_Blog_290.webp" alt="Best Indian Destination Wedding Photographer Udaipur" />
+                    <p><img src="https://magica.in/media/posts/122/Sneha_Aniket_Blog_290.webp" class="type:primaryImage" alt="Best Indian Destination Wedding Photographer Udaipur" /></p>
                 <div>Having a big fat Indian wedding is on every bride's wish list. And why not? Indian weddings are a symbol of grand celebration and one of the most exotic weddings in the world. While you can plan a minimalistic wedding anywhere in the word like Europe, Italy or Paris, there's a certain traditional charm in having a big fat Indian wedding in India itself. And if you're a Bollywood fan, you can choose to get married on the sets of Yeh Jawaani Hai Deewani.</div>
 <div> </div>
 <div><strong>Yes, the place is called Udaipur</strong></div>
 <div> </div>
 <div>The modern bride is different. She's smart, intelligent, and high on details. Naturally, she'd want the best <a href="https://magica.in/a-suryagarh-palace-destination-wedding-day-2/">destination wedding photographer</a> in Udaipur for her wedding. And such kind of brides are perfect clients for Magica by Rish Agarwal who's a detailed focussed boutique wedding photography company. </div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_252.jpg" data-is-external-image="true"  alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="469"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_252.jpg" alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="469" data-is-external-image="true"></figure></div>
 <h2><strong>Why do a destination wedding in Udaipur, India?</strong></h2>
 <div>Indian weddings are long, colourful, and tiring. An average Indian wedding can have a guest count anywhere between 400 and 800 with 6+ events spread across multiple days and sometimes even multiple locations or cities. If you're having guests coming in from multiple countries, you wouldn't want them to get tired with multiple layovers. The best solution for that is to have everything at one place, for which Udaipur suits as one of the best Indian wedding destinations in the country. </div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_049.jpg" data-is-external-image="true"  alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_049.jpg" alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="468" data-is-external-image="true"></figure></div>
 <div> </div>
 <div>One more very important thing is the guest accommodation abilities of the hotels at these destinations. Udaipur has been famous for having one of the most luxurious hotel chains in the world with brands like Oberois, Leela and Taj group at your service. Your guests are bound to feel at home while residing in these hotels. </div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_078.jpg" data-is-external-image="true"  alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_078.jpg" alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="468" data-is-external-image="true"></figure></div>
 <h2><strong>How to plan a perfect destination wedding</strong></h2>
 <div>There are two ways to go about it. Either do it all by yourself or hire an expert wedding planner. If you're an NRI bride, working everything out yourself remotely might be a bit of a challenge. Even if you have friends and relatives in India, doing everything on your behalf and then co-ordinating every single detail become tiring after a point. </div>
 <div>And here's where you can let go of all the stress and anxiety of your wedding planning and instead hire a wedding planner who will do everything for you on your behalf and give you the <a href="https://magica.in/best-wedding-photographer-in-delhi-india/">best Indian destination wedding</a> experience that you've always dreamt of.</div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_101.jpg" data-is-external-image="true"  alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_101.jpg" alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="468" data-is-external-image="true"></figure></div>
 <div> </div>
 <div>Another often overlook area that couple usually tend to overlook is researching the legalities of getting married in a different country. Different countries have different laws. Depending upon your nationality, some countries might require you to stay there for a certain number of days before you get married. So always research these kinds of issues on the planning stage.</div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_275.jpg" data-is-external-image="true"  alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="468"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_275.jpg" alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="468" data-is-external-image="true"></figure></div>
 <div> </div>
 <div>Also, try to avoid the peak season rush for <a href="https://magica.in/best-indian-wedding-photographer-in-toronto-calgary-vancouver/">Indian weddings</a>, which typically is in winters, during the months of Nov-Dec-Jan and Feb. On these months, most of the weddings happen in India. Venues and good destination wedding photographer are usually booked a year in advance for such busy dates.</div>
 <div> </div>
 <div>Planning a destination wedding might feel like a long distance relationship. You might think that if you're google calendar obsessed and micromanager bride, you will be able to handle every single detail yourself, but something as trivial as difference in time zones can easily leave you frustrated. </div>
 <div> </div>
-<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_290.jpg" data-is-external-image="true"  alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="434"></figure></div>
+<div><figure class="post__image post__image--wide"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_290.jpg" alt="Best Indian Destination Wedding Photographer Udaipur" width="702" height="434" data-is-external-image="true"></figure></div>
 <div> </div>
 <div>And you will face the same challenge when trying to find the Best Indian Destination Wedding Photographer in Udaipur. Someone with loads of experience, impeccable professionalism and genuine talent. </div>
 <div> </div>
@@ -210,6 +212,7 @@
         </author>
         <link href="https://magica.in/best-indian-wedding-photographer-in-toronto-calgary-vancouver/"/>
         <id>https://magica.in/best-indian-wedding-photographer-in-toronto-calgary-vancouver/</id>
+        <media:content url="https://magica.in/media/posts/121/NK_Day2_319.webp" medium="image" />
             <category term="Learn Photography"/>
 
         <updated>2022-10-10T05:26:44+05:30</updated>
@@ -221,21 +224,21 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://magica.in/media/posts/121/NK_Day2_319.webp" alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" />
+                    <p><img src="https://magica.in/media/posts/121/NK_Day2_319.webp" class="type:primaryImage" alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" /></p>
                 It’s not always easy, especially if your family or friends don’t live in the city (and are therefore unlikely to have personal recommendations).
 <div>There are many factors to consider, and we want to help you make the best decision for yourself, which will ultimately be an investment that provides lasting memories of one of the most important days of your life. So, where do you even start?</div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/NK_Day2_319.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/NK_Day2_319.jpg" alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468" data-is-external-image="true"></figure></div>
 <div> </div>
 <div>To get the <a href="https://magica.in/best-south-asian-wedding-photographer-in-usa/">best wedding photographer</a> in Toronto, Calgary or Vancouver, you need to first understand what makes a good wedding photographer.</div>
 <div>If you're a bride reading this, you're probably looking for the best Indian wedding photographer in Toronto. Naturally, an Indian wedding photographer should have a lot of experience in shooting weddings in India, or at least Indian weddings.</div>
 <div>Shooting an Indian wedding is no joke. With 6+ events in an average weddings spread across multiple days and sometimes even multiple locations, it takes special skills to be able to handle everything that comes along with an Indian wedding and still get the best emotional shots that you will cherish for the rest of your life.</div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/PN_RishPhotography_Day1_062.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/PN_RishPhotography_Day1_062.jpg" alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468" data-is-external-image="true"></figure></div>
 <h2><strong>Tips For Selecting An <a href="https://magica.in/indian-wedding-photographer-in-new-jersey-new-york-bay-area/">Indian Wedding Photographer</a> For Your Big Day</strong></h2>
 <div>
 <div>It's essential to choose the best Indian wedding photographer for your wedding. Here are the most important things to keep in mind while selecting an Indian wedding photographer. </div>
-<h2><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/ANWedding_Blog_RishPhotography_032.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468"></figure></h2>
+<h2><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/ANWedding_Blog_RishPhotography_032.jpg" alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468" data-is-external-image="true"></figure></h2>
 <h2><strong>Where do you want to take pictures? </strong></h2>
 <div>Indian weddings can be a mix of traditional Indian ceremonies and Western traditions, so it is indispensable to find out what the expectations are for this type of event and where photography is allowed at the ceremony or celebration site(s). </div>
 <div> </div>
@@ -243,11 +246,11 @@
 <div> </div>
 <div>The <a href="https://magica.in/best-indian-wedding-photographer-in-usa/">best wedding photographer</a> should be well versed in all the ceremonies that happen in a typical Hindu wedding ceremony. And if it's not an Indian wedding photographer, he'll have to learn everything from scratch and there's a high chance that he would miss out on some essential wedding moments.</div>
 <div> </div>
-<strong><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/19.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468"></figure></strong></div>
+<strong><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/19.jpg" alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468" data-is-external-image="true"></figure></strong></div>
 <h2><strong>Do I Need a Videographer?<br></strong></h2>
 <div>It's often said that if a picture is worth a thousand words, a video is worth ten-thousand words. And I can't agree with it more. Your wedding video is always going to be the most cherished memory of your wedding and would be seen by your kids and grandkids with great enthusiasm. Remember your parent's wedding? There's a very high chance that memory is associated with their wedding video you saw on your old television. The technologies must have changed, but the real essence of seeing someone's wedding film in video form remains un-matched.</div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" alt="Best Indian Wedding Photographer in Toronto Calgary Vancouver" width="702" height="468" data-is-external-image="true"></figure></div>
 <h2><strong>What Should I Know About <a href="https://magica.in/indian-wedding-videographer-wedding-films/">Wedding Videography</a>?<br></strong></h2>
 <div>
 <div>With modern wedding photography, we don't shoot the old, boring style wedding videos any more. Nowadays, we shoot something called as <a href="https://magica.in/indian-wedding-videographer-wedding-films/">The Wedding Film</a>. And as the name suggests, every film has a story. And your wedding film would have your story. Since every bride and groom we work with are unique in their own ways, so are their stories.</div>
@@ -275,6 +278,7 @@
         </author>
         <link href="https://magica.in/best-south-asian-wedding-photographer-in-usa/"/>
         <id>https://magica.in/best-south-asian-wedding-photographer-in-usa/</id>
+        <media:content url="https://magica.in/media/posts/120/Sneha_Aniket_Blog_254.webp" medium="image" />
             <category term="Learn Photography"/>
 
         <updated>2022-10-09T04:15:16+05:30</updated>
@@ -286,17 +290,17 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://magica.in/media/posts/120/Sneha_Aniket_Blog_254.webp" alt="" />
+                    <p><img src="https://magica.in/media/posts/120/Sneha_Aniket_Blog_254.webp" class="type:primaryImage" alt="" /></p>
                 <p>It's rightly said that South Asian and Indian weddings are one of the most flamboyant weddings in the whole world. Often when people from different cultures get a chance to attend one, they're amazed by just how large scale everything is. Nothing short of a movie set, a South Asian Indian wedding can give anyone a sense of awe to be in.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_254.jpg" data-is-external-image="true"  alt="Best South Asian Indian Wedding Photographer and Videographer in USA" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_254.jpg" alt="Best South Asian Indian Wedding Photographer and Videographer in USA" width="702" height="468" data-is-external-image="true"></figure>
 <p><span data-slate-fragment="JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlNvdXRoZWFzdCUyMEFzaWFuJTIwd2VkZGluZ3MlMjBoYXZlJTIwdGhlaXIlMjBvd24lMjB1bmlxdWUlMjBjaGFybXMlMjBhbmQlMjBiZWF1dHklMjB0aGF0JTIwYXJlbiVFMiU4MCU5OXQlMjBwcmVzZW50JTIwaW4lMjBvdGhlciUyMHR5cGVzJTIwb2YlMjB3ZWRkaW5ncyUyMGluJTIwQW1lcmljYS4lMjBBbmQlMjBpZiUyMHlvdSVFMiU4MCU5OXJlJTIwcGxhbm5pbmclMjBvbiUyMGdldHRpbmclMjBtYXJyaWVkJTIwaW4lMjB0aGUlMjBVUyUyQyUyMG9uZSUyMG9mJTIwdGhlJTIwbW9zdCUyMGltcG9ydGFudCUyMHBhcnRzJTIwb2YlMjB0aGUlMjBwbGFubmluZyUyMHByb2Nlc3MlMjB3aWxsJTIwYmUlMjBmaW5kaW5nJTIwdGhlJTIwYmVzdCUyMFNvdXRoJTIwQXNpYW4lMjB3ZWRkaW5nJTIwcGhvdG9ncmFwaGVyJTIwdG8lMjByZWNvcmQlMjB5b3VyJTIwc3BlY2lhbCUyMGRheS4lMjBIZXJlJUUyJTgwJTk5cyUyMGhvdyUyMHRvJTIwZmluZCUyMHRoZW0lMjBhbmQlMjB3aGF0JTIwdG8lMjBsb29rJTIwb3V0JTIwZm9yJTIwd2hlbiUyMHlvdSUyMGRvLiUyMiU3RCU1RCU3RCU1RA==">Southeast Asian weddings have their own unique charms and beauty that aren’t present in other types of weddings in America. And if you’re planning on getting <a href="https://magica.in/best-indian-wedding-photographer-in-usa/">married in the USA</a>, one of the most important parts of the planning process will be finding the <a href="https://magica.in">best South Asian wedding photographer </a>to record your special day. Here’s how to find them and what to look out for when you do.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/3.jpg" data-is-external-image="true"  alt="Best South Asian Indian Wedding Photographer and Videographer in USA" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/3.jpg" alt="Best South Asian Indian Wedding Photographer and Videographer in USA" width="702" height="468" data-is-external-image="true"></figure>
 <h2><span data-slate-fragment="JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMldoYXQlMjBNYWtlcyUyMGElMjBHb29kJTIwSW5kaWFuJTIwV2VkZGluZyUyMFBob3RvZ3JhcGhlciUyMiU3RCU1RCU3RCU1RA==">What Makes a Great South Asian Indian Wedding Photographer</span></h2>
 <p><span data-slate-fragment="JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkElMjBncmVhdCUyMEluZGlhbiUyMHdlZGRpbmclMjBwaG90b2dyYXBoZXIlMjB3b3VsZCUyMGtub3clMjBob3clMjB0byUyMGNhcHR1cmUlMjBlbW90aW9ucyUyMGluJTIwaGlzJTIwd2VkZGluZyUyMHBob3Rvcy4lMjBUaGUlMjBmaXJzdCUyMHRoaW5nJTIwaGUlMjB3b3VsZCUyMGRvJTIwaXMlMjB0YWtlJTIwYW4lMjBlbmdhZ2VtZW50JTIwc2hvb3QlMjBhbmQlMjBhJTIwcHJlLXdlZGRpbmclMjBzaG9vdCUyMHRvJTIwZ2V0JTIwYSUyMGZlZWwlMjBvZiUyMGhvdyUyMHlvdSUyMHdhbnQlMjB0byUyMGV4cHJlc3MlMjB5b3Vyc2VsdmVzJTIwaW4lMjBmcm9udCUyMG9mJTIwdGhlJTIwY2FtZXJhLiUyMEhlJTIwd2lsbCUyMGFsc28lMjBiZSUyMGFibGUlMjB0byUyMHVuZGVyc3RhbmQlMjB3aGF0JTIwdHlwZSUyMG9mJTIwcGljdHVyZXMlMjBhcmUlMjBtb3N0JTIwaW1wb3J0YW50JTIwdG8lMjB5b3UlMjBhbmQlMjB5b3VyJTIwcGFydG5lciUyMGR1cmluZyUyMHRoZSUyMHJlY2VwdGlvbi4lMjBGb3IlMjBleGFtcGxlJTJDJTIwd2hldGhlciUyMGl0J3MlMjBmYW1pbHklMkMlMjBmcmllbmRzJTIwb3IlMjBqdXN0JTIweW91cnNlbGYlMjBhbmQlMjB0aGUlMjBicmlkZSUyRmdyb29tLiUyME9uZSUyMG9mJTIwdGhlJTIwYmVzdCUyMHdheXMlMjB0byUyMHRlbGwlMjBpZiUyMGElMjBwaG90b2dyYXBoZXIlMjBpcyUyMGdvb2QlMjBpcyUyMGJ5JTIwc2VlaW5nJTIwaWYlMjB0aGV5JTIwaGF2ZSUyMGV4cGVyaWVuY2UlMjB3aXRoJTIwd2VkZGluZ3MlMjBvZiUyMGRpZmZlcmVudCUyMGN1bHR1cmVzLiUyMElmJTIwdGhleSUyMHNwZWNpYWxpemUlMjBpbiUyMHNvdXRoJTIwYXNpYW4lMjB3ZWRkaW5ncyUyQyUyMHRoZW4lMjB0aGlzJTIwc2hvdWxkJTIwZ2l2ZSUyMHRoZW0lMjBlbm91Z2glMjBleHBlcmllbmNlJTIwdG8lMjBrbm93JTIwd2hhdCUyMHR5cGVzJTIwb2YlMjBzaG90cyUyMHNob3VsZCUyMGJlJTIwdGFrZW4lMjBhdCUyMGRpZmZlcmVudCUyMHBvaW50cyUyMGR1cmluZyUyMHlvdXIlMjB3ZWRkaW5nJTIwZGF5LiUyMiU3RCU1RCU3RCU1RA==">A great Indian wedding photographer would know how to capture emotions in his wedding photos. The first thing he would do is take an engagement shoot and a pre-wedding shoot to get a feel of how you want to express yourselves in front of the camera. He will also be able to understand what type of pictures are most important to you and your partner during the reception. For example, whether it's family, friends or just yourself and the bride/groom. One of the best ways to tell if a photographer is good is by seeing if they have experience with weddings of different cultures. If they specialize in south asian weddings, then this should give them enough experience to know what types of shots should be taken at different points during your wedding day.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Neha_Aditya_01.jpg" data-is-external-image="true"  alt="Best South Asian Indian Wedding Photographer and Videographer in USA" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Neha_Aditya_01.jpg" alt="Best South Asian Indian Wedding Photographer and Videographer in USA" width="702" height="468" data-is-external-image="true"></figure>
 <h2><span data-slate-fragment="JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMkhvdyUyME11Y2glMjBEbyUyMFlvdSUyME5lZWQlMjBUbyUyMFNwZW5kJTIwT24lMjBBJTIwUHJvZmVzc2lvbmFsJTIwSW5kaWFuJTIwV2VkZGluZyUyMFBob3RvZ3JhcGhlciUyMiU3RCU1RCU3RCU1RA==">How Much Do You Need To Spend On A Professional Indian Wedding Photographer</span></h2>
 <p><span data-slate-fragment="JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMllvdSUyMGNhbiUyMGZpbmQlMjBnb29kJTIwc291dGglMjBhc2lhbiUyMHdlZGRpbmclMjBwaG90b2dyYXBoZXJzJTIwaW4lMjBVU0ElMjBpbiUyMGFsbCUyMGJ1ZGdldHMuJTIwSG93ZXZlciUyQyUyMHRyeSUyMHRvJTIwbWFrZSUyMHN1cmUlMjB0aGF0JTIweW91J3JlJTIwZ2V0dGluZyUyMHlvdXIlMjBtb25leSdzJTIwd29ydGguJTIwQSUyMGdvb2QlMjBzdGFydGluZyUyMHBvaW50JTIwd291bGQlMjBiZSUyMHRvJTIwYnVkZ2V0JTIwYWJvdXQlMjAlMjQ0JTJDMDAwJTIwdG8lMjAlMjQ3JTJDMDAwJTIwZm9yJTIwYSUyMHR5cGljYWwlMjBJbmRpYW4lMjB3ZWRkaW5nLiUyMFdlJTIwd291bGQlMjBuZXZlciUyMGFkdmlzZSUyMHlvdSUyMHRvJTIwbG9vayUyMGZvciUyMGNoZWFwJTIwd2VkZGluZyUyMHBob3RvZ3JhcGhlcnMlMjBiZWNhdXNlJTIwdGhlbiUyMHRoZSUyMGNoYW5jZXMlMjBvZiUyMHJ1aW5pbmclMjB5b3VyJTIwd2VkZGluZyUyMGFyZSUyMG11Y2glMjBtb3JlLiUyMEFuZCUyMHdobyUyMHdvdWxkJTIwd2FudCUyMHRvJTIwcnVpbiUyMHRoZWlyJTIwb25jZSUyMGluJTIwYSUyMGxpZmV0aW1lJTIwZXZlbnQlMjB0byUyMHNhdmUlMjBzb21lJTIwZXh0cmElMjBidWNrcyUzRiUyMCUyMEhlbmNlJTJDJTIwaXQncyUyMGFsd2F5cyUyMGJldHRlciUyMHRvJTIwaW52ZXN0JTIwaW4lMjBhJTIwcXVhbGl0eSUyMHBob3RvZ3JhcGhlciUyMHRoYW4lMjBjb21wcm9taXNpbmclMjBvbiUyMGFueXRoaW5nJTIwZWxzZS4lMjIlN0QlNUQlN0QlNUQ=">You can find good South Asian <a href="https://magica.in/best-indian-wedding-photographer-in-usa/">Indian Wedding Photographer in USA</a> in all budgets. However, try to make sure that you're getting your money's worth. A good starting point would be to budget about $4,000 to $7,000 for a typical Indian wedding. We would never advise you to look for cheap wedding photographers because then the chances of ruining your wedding are much more. And who would want to ruin their once in a lifetime event to save some extra bucks? Hence, it's always better to invest in a quality photographer than compromising on anything else.</span></p>
-<h2><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_290.jpg" data-is-external-image="true"  alt="Best South Asian Indian Wedding Photographer and Videographer in USA" width="702" height="434"></figure></h2>
+<h2><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/12/Sneha_Aniket_Blog_290.jpg" alt="Best South Asian Indian Wedding Photographer and Videographer in USA" width="702" height="434" data-is-external-image="true"></figure></h2>
 <h2><span data-slate-fragment="JTVCJTdCJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMlRpcHMlMjBGb3IlMjBDaG9vc2luZyUyMFRoZSUyMFJpZ2h0JTIwSW5kaWFuJTIwV2VkZGluZyUyMFBob3RvZ3JhcGhlciUyMEZvciUyMFlvdSUyMiU3RCU1RCU3RCU1RA==">Tips For Choosing The Right Indian Wedding Photographer For You</span></h2>
 <div data-slate-node="element"><span data-slate-node="text">Choosing the right south Asian Indian wedding photographer for your wedding is a daunting task. There are so many things to think about, such as the look and feel you want for your photos, whether you want someone who is bilingual or has experience with Indian weddings in America, how much experience they have, etc. To make the process easier, let's explore some of the most important qualities you should look for in an Indian wedding photographer. </span></div>
 <h3 data-slate-node="element"><span data-slate-node="text">Professionalism</span></h3>
@@ -317,6 +321,7 @@
         </author>
         <link href="https://magica.in/beach-outdoor-pre-wedding-engagement-shoot/"/>
         <id>https://magica.in/beach-outdoor-pre-wedding-engagement-shoot/</id>
+        <media:content url="https://magica.in/media/posts/119/asdrubal-luna-60Lu4wco62w-unsplash.jpg" medium="image" />
             <category term="Learn Photography"/>
 
         <updated>2022-10-08T23:25:43+05:30</updated>
@@ -328,31 +333,31 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://magica.in/media/posts/119/asdrubal-luna-60Lu4wco62w-unsplash.jpg" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" />
+                    <p><img src="https://magica.in/media/posts/119/asdrubal-luna-60Lu4wco62w-unsplash.jpg" class="type:primaryImage" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" /></p>
                 <p>Shooting a pre wedding or engagement shoot at a beach is always a thrilling experience. For one, it poses a challenge of sand and salty water all around (which can always very easy damage your equipment) but it also offers an opportunity to use the sunlight, sand, water all the natural elements to incorporate emotions in the photographers of our couple.</p>
 <p>Here are some of our tips if you're looking to get your pre wedding shoot done at an outdoor beach:</p>
 <h2>Wear comfortable clothes</h2>
 <p>No matter if you're shooting at a beach in Goa, Andaman, Maldives or any other part of the world, and even if the shoot starts as a serious one, it's bound to go more fun as the time goes, and you'll be running, smiling and having a lot of fun with your partner in the shoot. So it's best to be in comfortable clothes so that you're not too much concerned about them and instead, focus on getting great fun pictures!</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/thomas-yohei-PMLL435j_V8-unsplash.jpg" data-is-external-image="true"  alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/thomas-yohei-PMLL435j_V8-unsplash.jpg" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800" data-is-external-image="true"></figure>
 <h2>Use The Contrast</h2>
 <p>A beach is always going to have a lot of contrasting elements all around. Even though, our style of wedding photography is very minimalistic and modern, we always use this opportunity to include the contrasting elements of things like boats parked on the shore or any other element we can find to incorporate in our pre wedding photo shoot.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/jonathan-borba-9GkapULEiTE-unsplash.jpg" data-is-external-image="true"  alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/jonathan-borba-9GkapULEiTE-unsplash.jpg" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="702" height="468" data-is-external-image="true"></figure>
 <h2>Use The Sunlight To Your Advantage</h2>
 <p>This tip is for both photographers and the couples. Use that beautiful sunset light to get the best ever photographs of your beloved. Everyone looks stunning when the light of the setting sun falls on their face. Why not use this opportunity to do some romantic or even dramatic poses with your loved one and let us capture that as a lifelong memory?</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/jonathan-borba-GaSmtFJUPuE-unsplash.jpg" data-is-external-image="true"  alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/jonathan-borba-GaSmtFJUPuE-unsplash.jpg" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800" data-is-external-image="true"></figure>
 <h2>Be A Super Model</h2>
 <p>And while you're having fun and feeling all mushy, it doesn't hurt to give some <a>poses</a> like you're in a high fashion model magazine. This especially goes if you have hired the <a>best pre wedding photographer</a> you can find because he'll have the perfect experience of not only getting the best <a>intimate pre wedding</a> shots, but also shots like these.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/asdrubal-luna-60Lu4wco62w-unsplash.jpg" data-is-external-image="true"  alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/asdrubal-luna-60Lu4wco62w-unsplash.jpg" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="702" height="468" data-is-external-image="true"></figure>
 <h2>It's not always about the face</h2>
 <p>I know, for most of the time, you'd want to have your happy face in your pre wedding photos. But sometimes (in fact, a lot of times) some of the most powerful photos we have taken do not have faces in them. And that's because your body, hands, and legs are perfectly capable of communicating emotions through the photos. And sometimes more than you face ever can. So don't be afraid of getting shots like these:</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/joanna-nix-walkup-vgkjJlEj-VQ-unsplash.jpg" data-is-external-image="true"  alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="702" height="468"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/thomas-yohei-mqRxVOC7GXo-unsplash.jpg" data-is-external-image="true"  alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/joanna-nix-walkup-vgkjJlEj-VQ-unsplash.jpg" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="702" height="468" data-is-external-image="true"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/thomas-yohei-mqRxVOC7GXo-unsplash.jpg" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800" data-is-external-image="true"></figure>
 <h2>Be overly in love</h2>
 <p>This is your pre wedding shoot and this is probably the best time to show the immense love you have to your partner. Be romantic. Do some dramatic poses. Kiss each other. Hold each other. Remember, these few hours are going to give you the photos you're going to cherish for a lifetime.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/jonathan-borba-Id4Hvej_w7k-unsplash.jpg" data-is-external-image="true"  alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/jonathan-borba-Id4Hvej_w7k-unsplash.jpg" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800" data-is-external-image="true"></figure>
 <h2>Shoot till the sun sets</h2>
 <p>The sun is very dramatic at two times of the day: sunrise and sunset. And most probably, you'll be facing the sunset if you're doing your pre wedding shoot at an outdoor beach. Use the opportunity to the fullest and create dramatic silhouette photos while the sun is setting with your partner.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/jonathan-borba-VX2nrLhq4h4-unsplash.jpg" data-is-external-image="true"  alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/10/jonathan-borba-VX2nrLhq4h4-unsplash.jpg" alt="Best Pre Wedding Photographer India Outdoor Beach Shoot" width="533" height="800" data-is-external-image="true"></figure>
 <p>If you're looking to get your pre wedding shoot done at an outdoor beach location, be sure to contact us.</p>
 <p class="align-center"><a href="https://magica.in/contact/" class="btn">Contact Us</a></p>
             ]]>
@@ -365,6 +370,7 @@
         </author>
         <link href="https://magica.in/indian-wedding-photographer-in-new-jersey-new-york-bay-area/"/>
         <id>https://magica.in/indian-wedding-photographer-in-new-jersey-new-york-bay-area/</id>
+        <media:content url="https://magica.in/media/posts/118/TriciaHemant_Blog_RishPhotography_036.webp" medium="image" />
             <category term="Learn Photography"/>
 
         <updated>2022-10-07T20:21:39+05:30</updated>
@@ -376,27 +382,27 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://magica.in/media/posts/118/TriciaHemant_Blog_RishPhotography_036.webp" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/PT_Day3_255.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468"></figure>
+                    <p><img src="https://magica.in/media/posts/118/TriciaHemant_Blog_RishPhotography_036.webp" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/PT_Day3_255.jpg" alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468" data-is-external-image="true"></figure>
 <p>The person who captures the memories of your big day is just as important as what you wear, who you call to give your toast, and where you say your vows. The right <a href="https://magica.in/best-indian-wedding-photographer-in-usa/">Indian wedding photographer in USA</a> will capture those special moments in detail—and help share them with everyone else. A bad one, on the other hand, can make or break your special day. Luckily, finding a great Indian wedding photographer in New Jersey is more difficult than it seems! </p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468" data-is-external-image="true"></figure>
 <p>Whether you’re planning your dream wedding at a nearby venue or opting for an outside ceremony that takes place under the night sky, there are many ways to find the perfect New Jersey Indian wedding photographer for you. Here’s everything you need to know about finding the best <a href="https://magica.in">Indian wedding photographer in New Jersey</a> and New York.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/16.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/16.jpg" alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468" data-is-external-image="true"></figure>
 <h2><strong>What to Look for in an Indian Wedding Photographer in NJ, NYC, Bay Area, Chicago &amp; California</strong></h2>
 <h3><strong>Experience</strong></h3>
 <p>A lot of experience. Shooting <a href="https://magica.in/tags/weddings/">Indian weddings</a> is nothing less than shooting a movie. There are so many characters, so many stories, so much chaos going around and still the wedding photographer need to focus on the right things and get the emotions of the bride, groom, and their families captured in their wedding photographs. The best Indian wedding photographers have been doing this for years and know exactly how to handle each situation, how to get the best out of every person in the wedding party, and how to make sure the bride and groom are always comfortable. This is one of the main reasons why you will see so many photographers performing Indian weddings. They know how to do this, they do it well, and they are dedicated to their craft. Indian wedding photographers are some of the best at what they do, they are passionate about it, they are invested in their craft, and they know how to make a great result happen.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/NK_Day2_319.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/NK_Day2_319.jpg" alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468" data-is-external-image="true"></figure>
 <h3><strong>Professionalism</strong></h3>
 <p>If you’re looking for a wedding photographer who is friendly, easygoing, and fun to work with, you will love our Indian wedding photographers. Yes, experience is absolutely essential, but only experience can never work without top-notch professionalism. A professional Indian wedding photographer would know how to handle all the unpredictability and stress that comes with Indian weddings. No matter, if you're getting married in New Jersey, New York, Chicago or California, your Indian wedding will come with its own set of surprises. And a professional wedding photographer will come prepared with everything. And if you want someone who will be on time, professional, and makes sure every detail is just right then you want one of our professional Indian Wedding Photographers. They’ll provide you with an amazing experience from start to finish!</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/AnshNitika_Blog_RishPhotography_083.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/AnshNitika_Blog_RishPhotography_083.jpg" alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468" data-is-external-image="true"></figure>
 <h3><strong>Quality of Work</strong></h3>
 <p>It’s really hard to describe your style in photography when you don’t have any samples of your work yet. To help give potential clients an idea of what they can expect from our team, we offer different packages that include a variety of prints, albums, digital images or even video services all at different price points so that everyone can find something that works for them. We also offer custom Indian wedding photography packages, so if there are specific things that are important to you such as more than one photographer or engagement session, please let us know, so we can talk about what your needs are!</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/AR_Wedding_Blog_123.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/AR_Wedding_Blog_123.jpg" alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468" data-is-external-image="true"></figure>
 <h3><strong>Value</strong></h3>
 <p>Everything in the world has a price and a value. Something really expensive can be utterly useless to you, and something very trivial can hold infinite value in your heart. Imagine that old photo of your mother when you were young. You can never put a price on that photo, but it'll always hold immense value in your heart. Similarly, your wedding photos will always be valuable to you. The wedding is a once in a lifetime event, so we always suggest our brides look for value, regardless of the price. Because money is something you can always get again. But time, you cannot.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Nandita_Day1_Rish_91-copy.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Nandita_Day1_Rish_91-copy.jpg" alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468" data-is-external-image="true"></figure>
 <p>Finding an Indian Wedding Photographer in New Jersey, New York, Bay Area, Chicago or California can be hard since most of the assignments there require them to shoot church or American weddings which are opposites to <a href="https://magica.in/indian-wedding-videographer-wedding-films/">Indian Weddings</a>. However, with our award-winning team of Magica, with over a decade of Indian wedding photography and videography, you can be rest assured that you'll be getting amazing wedding photos.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/TriciaHemant_Blog_RishPhotography_036.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/TriciaHemant_Blog_RishPhotography_036.jpg" alt="Best Indian Wedding Photographer in New Jersey, New York Bay Area" width="702" height="468" data-is-external-image="true"></figure>
 <h3><strong>Final Words</strong></h3>
 <p>Now that you’ve read our <a href="https://magica.in/best-wedding-photographer-in-india-or-top-10-magica-by-rish-agarwal/">New Jersey Indian Wedding Photography</a> blog, we would like to thank you for spending time with us. We hope that this article has given you a better understanding of what to look for in a good wedding photographer. We also hope that it has helped you understand why hiring an Indian wedding photographer is the best choice for your wedding. As an Indian wedding photographer, we couldn’t be more excited to help capture your special day and make sure every detail is remembered forever.</p>
 <p> </p>
@@ -410,6 +416,7 @@
         </author>
         <link href="https://magica.in/best-indian-wedding-photographer-in-usa/"/>
         <id>https://magica.in/best-indian-wedding-photographer-in-usa/</id>
+        <media:content url="https://magica.in/media/posts/117/ANWedding_Blog_RishPhotography_032.webp" medium="image" />
             <category term="Learn Photography"/>
 
         <updated>2022-10-08T03:36:16+05:30</updated>
@@ -421,12 +428,12 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://magica.in/media/posts/117/ANWedding_Blog_RishPhotography_032.webp" alt="" />
+                    <p><img src="https://magica.in/media/posts/117/ANWedding_Blog_RishPhotography_032.webp" class="type:primaryImage" alt="" /></p>
                 <p>If you're an Indian bride, looking to make lifetime memories of your wedding and are on a quest to find the <strong>best <a href="https://magica.in/best-wedding-photographer-in-india-or-top-10-magica-by-rish-agarwal/">Indian wedding photographer</a> in the USA</strong>, I feel your pain and how difficult it can get.</p>
 <div> </div>
 <div>With so much of information floating around and how easy it is to just make an Instagram page, put some pictures and say that you're a wedding photographer make so much room for error of judgement. </div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/5.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in USA" width="702" height="468"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/5.jpg" alt="Best Indian Wedding Photographer in USA" width="702" height="468" data-is-external-image="true"></figure></div>
 <div> </div>
 <div>And on top of that, I have seen a lot of American wedding photographers cannot understand the essence of an Indian wedding and what an Indian bride wishes for in her wedding photos. </div>
 <div> </div>
@@ -438,30 +445,30 @@
 <h2><strong>Too Many Events</strong></h2>
 <div>There are just so many events across cultures in an Indian wedding. From baraat to pheras. From jaimala to joota chhupai, there are so many events that are so important to be captured in an Indian wedding that an entire encyclopedia might fell short if one has to start understanding everything. Unless someone is born and brought up in the <a href="https://magica.in/how-to-plan-an-indian-wedding-a-step-by-step-guide-for-2022-2023/">Indian culture</a>, it's very hard for them to comprehend the value of each and every ritual and the broader reason behind them. </div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/PN_Day2_Wedding_306.jpeg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in USA" width="702" height="469"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/PN_Day2_Wedding_306.jpeg" alt="Best Indian Wedding Photographer in USA" width="702" height="469" data-is-external-image="true"></figure></div>
 <h2><strong>Everyone is important</strong></h2>
 <div>In no other culture in the world do we have so many guests, where everyone is important. That distant aunt, whom you didn't see after your 5th grade, has to be in the photos. That small kid you never knew existed until now has to be photographed with his family. And naturally, photographers who have had the experience of only photographing American weddings, where with the bride and groom, there are a only handful of people in the family that are there, it's really hard to understand the logic behind this. Maybe there's no logic really, but that's how Indian weddings are :)</div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/Before_After_002.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in USA" width="702" height="470"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/Before_After_002.jpg" alt="Best Indian Wedding Photographer in USA" width="702" height="470" data-is-external-image="true"></figure></div>
 <h2><strong>Nothing is on time</strong></h2>
 <div>It is said that there's a world time zone and there's an IST, a.k.a. Indian Standard Time, but actually it means is Indians are Seldom on Time 🤣</div>
 <div>And anyone who has ever attended an Indian wedding would wholeheartedly agree with me. In my over a decade long career as a wedding photographer, I haven't seen a single <a href="https://magica.in/how-to-plan-an-indian-wedding-a-step-by-step-guide-for-2022-2023/">Indian wedding</a> where everything went on as it was planned and on time. Once, in a wedding which I was shooting, the baraat was 6 hours late. In another one, bride and groom planned for months for a sunset wedding, but on the wedding day, nobody was ready, and the sun set at its convenient time. What would you do in such a situation? And only an experienced Indian wedding photographer would be equipped to handle that kind of stress.</div>
 <h2><strong>The lighting and colours</strong></h2>
 <div>English or American weddings have primarily two colours—black for the groom and white for the bride. Indian weddings on the other hand start at a minimum of 2 million colours. Just look at this photo below and try to count the number of colours.</div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/AR_Engagement_Blog_095.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in USA" width="702" height="468"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/AR_Engagement_Blog_095.jpg" alt="Best Indian Wedding Photographer in USA" width="702" height="468" data-is-external-image="true"></figure></div>
 <div> </div>
 <div>The thing with colour is, it really depends on what light is falling on it, that what colour you'd see. So if you, as a bride, have spent months of your time and thousands of your dollars in selecting that perfect colour attire for your wedding, but the colours come out to be all off because the Indian wedding photographer couldn't handle things in tough lighting conditions, how would you feel?</div>
 <h1>So here's my recommendation on selecting the best Indian wedding photographer in the USA:</h1>
 <h2><strong>Get someone who gets Indian weddings:</strong></h2>
 <div>This goes without saying. Get someone who specifically has the experience of shooting Indian weddings. AT LEAST 5-6 years of experience. The more, the better. Because that photographer would know how to handle all the stress and unpredictability that comes with an Indian wedding and still deliver amazing wedding photos.</div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in USA" width="702" height="468"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" alt="Best Indian Wedding Photographer in USA" width="702" height="468" data-is-external-image="true"></figure></div>
 <h2><strong>Hire the Indian wedding photographer in the USA who has a full portfolio to show</strong></h2>
 <div>Not some selected photos. Not an Instagram gallery. You really should see a <a href="https://magica.in/tags/weddings/">complete wedding coverage portfolio </a>of a single (and preferably more) Indian weddings. Why? Because that'll show how <i>consistently</i> he/she can shoot great photos.</div>
 <h2><strong>Have an online / in person meeting before hiring your wedding photographer</strong></h2>
 <div>This one is crucial. Despite someone having checked all the boxes above, it's possible that when you actually meet that person or team, you really don't get along with the vibe. You'd not be able to put a finger on the why you feel so, but it'll just be there. And you're going to trust that person or the wedding company for the most important day of your life. And conversely, they're also going to spend months of their life in post-processing and editing of your wedding pictures. So it's really crucial that you both like each other to be able to work effectively.</div>
 <div> </div>
-<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Neha_Aditya_01.jpg" data-is-external-image="true"  alt="Best Indian Wedding Photographer in USA" width="702" height="468"></figure></div>
+<div><figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Neha_Aditya_01.jpg" alt="Best Indian Wedding Photographer in USA" width="702" height="468" data-is-external-image="true"></figure></div>
 <div> </div>
 <div>Those are the points I could think of on top of my mind right now. Did I miss anything? Do let me know on <a href="https://instagram.com/rish404">Instagram</a>.</div>
 <div> </div>
@@ -501,6 +508,7 @@
         </author>
         <link href="https://magica.in/the-best-canon-lenses-for-wedding-photography/"/>
         <id>https://magica.in/the-best-canon-lenses-for-wedding-photography/</id>
+        <media:content url="https://magica.in/media/posts/116/Neha_Aditya_01.jpg" medium="image" />
             <category term="Learn Photography"/>
 
         <updated>2022-10-05T01:48:04+05:30</updated>
@@ -512,7 +520,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://magica.in/media/posts/116/Neha_Aditya_01.jpg" alt="" />
+                    <p><img src="https://magica.in/media/posts/116/Neha_Aditya_01.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="column small left"><span style="font-family: var(--editor-font-family); font-size: inherit;">Whether you're photographing an intimate elopement, a micro wedding, a quirky alternative wedding or a traditional big wedding reception, the right kit is key. So which are the best Canon lenses for wedding photography? What are the essential features to look for in a Canon wedding lens? And which lenses will be both reliable and fast to focus, enabling you to deliver results time and time again?</span></p>
 <ul>
 <li><a href="#Canon RF 15-35">Best wide-angle lens</a></li>
@@ -523,43 +531,43 @@
 <li><a href="#bonus">Bonus : My favourite lens</a></li>
 </ul>
 <h2 id="Canon RF 15-35">1. Best wide-angle lens for immersive portraits: Canon RF 15-35mm F2.8L IS USM</h2>
-<figure class="post__image post__image--left"><a href="https://amzn.to/3V1qwtC"><img loading="lazy"  src="https://i.postimg.cc/Zqbz13gB/gallery-canon-rf-15-35mm-f2.webp" data-is-external-image="true"  width="316" height="316"></figure></a></p>
+<figure class="post__image post__image--left"><a href="https://amzn.to/3V1qwtC"><img loading="lazy"  src="https://i.postimg.cc/Zqbz13gB/gallery-canon-rf-15-35mm-f2.webp" width="316" height="316" data-is-external-image="true"></figure></a></p>
 <p>First of all, let's understand what immersive portraits actually mean. It's a well known fact in the photography and cinema world that you keep your audience where you put your camera (or the lens) at. Which means, when the director or the DoP decides to pan into a shot in film, you feel getting closer to the mind of the character. If the camera is far apart, you feel disconnected and if it's too close, you feel uncomfortable.</p>
 <p>Similarly, in wedding photography, we're always working with human beings. And for the people who see those photos afterwards, it's very important to give them a feeling of immersion like they were actually present there at the wedding, celebrating with their loved ones. This has a great emotional impact and the primary reason why sometimes some of our clients have tears in their eyes when seeing their wedding photos for the first time.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/AR_Wedding_Blog_001.jpg" data-is-external-image="true"  alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="469"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2019/05/AR_Wedding_Blog_001.jpg" alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="469" data-is-external-image="true"></figure>
 <p>Canon's RF 15-35mm lets you do just that. With a flexible aperture, this goes from 35mm to all the way to 15mm. So no matter the number of people in front of you, you can always adjust the focal length to include them all and capture all the drama in a single frame and give the viewer a sense of immersion.</p>
 <p class="align-center"><a href="https://amzn.to/3V1qwtC" class="btn">Buy Now (Amazon IN)</a></p>
 <h2 id="Canon RF 85mm">2. Best lens for capturing details: Canon RF 85mm F1.2L USM</h2>
-<figure class="post__image post__image--right"><a href="https://amzn.to/3CzApHW"><img loading="lazy"  src="https://i.postimg.cc/6qLDjp0L/rf-85mm-f1.webp" data-is-external-image="true"  width="351" height="351"></figure></a></p>
+<figure class="post__image post__image--right"><a href="https://amzn.to/3CzApHW"><img loading="lazy"  src="https://i.postimg.cc/6qLDjp0L/rf-85mm-f1.webp" width="351" height="351" data-is-external-image="true"></figure></a></p>
 <p>The devil is in the details. And details are the most overlooked while the most essential thing, not only in photography, but in everything else you do in your life. But especially in wedding photography, the importance of details cannot be overstated. After all, the most important things like the wedding ring, all need detailed shots.</p>
-<figure class="post__image"><img loading="lazy"  src="http://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/TriciaHemant_Blog_RishPhotography_020.jpg" data-is-external-image="true"  alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/TriciaHemant_Blog_RishPhotography_020.jpg" alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468" data-is-external-image="true"></figure>
 <p>However, details are not only limited to just objects. Detail can be even human emotions. That tear that is just about to roll off the cheek of bride's mother, capture that detail. That twinkle in the eye when the groom sees his bride for the first time, capture that. That tightness of the hug, the father gives her daughter at the wedding, capture that. And to capture all of this, the best lens, in my opinion, would be Canon's RF 85mm F1.2L USM. Since these details happen for split seconds, you need a very fast lens. The 85mm with F1.2 is the fastest lens in that series which can lock tact sharp focus even in low light situations given the wide aperture it has.</p>
 <p class="align-center"><a href="https://amzn.to/3CzApHW" class="btn">Buy Now (Amazon IN)</a></p>
 <h2 id="Canon RF 40mm">3. Best lens for isolating the subject: Canon RF 50mm F1.2L USM</h2>
-<figure class="post__image post__image--left"><img loading="lazy"  src="https://i.postimg.cc/wxX8Twpy/rf50mm-f-1.webp" data-is-external-image="true"  width="351" height="351"></figure>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://i.postimg.cc/wxX8Twpy/rf50mm-f-1.webp" width="351" height="351" data-is-external-image="true"></figure>
 <p>There's a very popular term in photography, which I'm sure most of you have heard before. And it's called Bokeh. It's the Japanese word from blur. Specifically, background blur. And what background blur essentially does it to isolate your subject. The subject then stands alone regardless of how busy or distracting the background is and you still can get a great photo. Almost all portraits depend on this background blur or bokeh effect. And Canon's RF 50mm f1.2L USM lens helps you achieve just that very easily.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/5.jpg" data-is-external-image="true"  alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/07/5.jpg" alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468" data-is-external-image="true"></figure>
 <p>Have a subject with a very distracting or busy background but still want to make an epic portrait? Just shoot 50mm wide open and you're golden.</p>
 <p>50mm is also a very special focal length because it's closer to what our normal eyes see the world in. So, when we shoot portraits in 50mm focal length, it doesn't deform or exaggerate any facial or body features. You get what you see, just in a much more beautiful and artistic way!</p>
 <h2 id="Canon RF 28-70">4. Best zoom lens for wedding photography: Canon RF 28-70mm F2L USM</h2>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://i.postimg.cc/hvqk1d9t/rf28-70mm-f-2l-usm-side-1x1-2127c2e2d818432bad9c83bec854360a.webp" data-is-external-image="true"  width="351" height="351"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://i.postimg.cc/hvqk1d9t/rf28-70mm-f-2l-usm-side-1x1-2127c2e2d818432bad9c83bec854360a.webp" width="351" height="351" data-is-external-image="true"></figure>
 <p>Zoom is a great superpower to have. Imagine you never have to move an inch and still be able to capture anything in the line of sight. Well, a zoom lens gives you that power. But with great power comes great responsibility. And you have to really know where to use what level of zoom. Keeping that judgement aside, Canon RF 28.70 f2L USM is a great lens to have with a very wide range of zoom.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" data-is-external-image="true"  alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2018/05/Puneet_Rahul_Blog_127.jpg" alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468" data-is-external-image="true"></figure>
 <p>28mm is practically a very wide focal length and 70mm is a very long focal length. There's no other lens in this price range that gives you this much flexibility.</p>
 <p>However, the thing with zoom lenses are they tend to be a little bit heavier, more complex and little bit slower. What I mean by slower is, the maximum aperture in this lens is f2 which is quite a bit slower than other f1.2 lenses we discussed earlier.</p>
 <p>Nevertheless, if this is a tradeoff you're willing to take, this lens is very versatile.</p>
 <h2 id="Canon RF 70-200mm">5. Best long lens for outdoor portraits: Canon RF 70-200mm F2.8L IS USM</h2>
-<figure class="post__image post__image--left"><a href="https://amzn.to/3Ey4xF1"><img loading="lazy"  src="https://i.postimg.cc/hGNWhwvx/pro-best-mirrorless-kit-landscapes-boxout-3-86cc10e9070d44d0a04b04075f97a71e.webp" data-is-external-image="true"  width="351" height="351"></figure></a></p>
+<figure class="post__image post__image--left"><a href="https://amzn.to/3Ey4xF1"><img loading="lazy"  src="https://i.postimg.cc/hGNWhwvx/pro-best-mirrorless-kit-landscapes-boxout-3-86cc10e9070d44d0a04b04075f97a71e.webp" width="351" height="351" data-is-external-image="true"></figure></a></p>
 <p>Although not as long as the average length of an Indian wedding, Canon RF 70-200mm f2.8L IS USM is one of the best long zoom lenses Canon has ever produced. If I have to choose one lens to shoot a whole wedding with, I'd definitely choose this lens. This lens is built like a tank, offers you an exponential range while being an L series lens (L series lenses are classic canons with a red ring, built like a tank &amp; top notch quality)</p>
 <p>Why have I referred to this as best lens for outdoor portraits? Because 200mm is such a long focal length, the photographer needs to stand very far away from the subject in order to photograph it. Otherwise the lens just won't focus. But once you get a taste of that 200mm quality, bokeh &amp; speed, it's very hard to go back.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/04/KJ_TajShoot_Mehtab_Morning_059.jpg" data-is-external-image="true"  alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/04/KJ_TajShoot_Mehtab_Morning_059.jpg" alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468" data-is-external-image="true"></figure>
 <p>Since this lens comes at the maximum aperture of f.28 it requires great lighting to work at its full potential. And what better light source than our good old sun? This is why I prefer this lens while working in outdoor conditions with an open sky and ample of light.</p>
 <p class="align-center"><a href="https://amzn.to/3Ey4xF1" class="btn">Buy Now (Amazon IN)</a></p>
 <h2 id="bonus">6. Bonus - Canon RF 35mm f/1.8 Macro is STM Lens</h2>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://i.postimg.cc/mZCVHr8h/rf35mm-f-1.webp" data-is-external-image="true"  width="320" height="320"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://i.postimg.cc/mZCVHr8h/rf35mm-f-1.webp" width="320" height="320" data-is-external-image="true"></figure>
 <p>This one is a bonus and let me tell you why. The 35mm is a very well kept secret of all great documentary photographers. Why is that you ask? That's because 35mm is the exact focal length of our eyes. Which makes the photos produced by this lens really familiar. Because that's how we see the world with our own eyes!</p>
 <p>But this one has one more amazing trick right up its sleeve. This RF 35mm f/1.8 lens comes with macro ability inbuilt.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Neha_Aditya_01.jpg" data-is-external-image="true"  alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.rishabhagarwal.com/wp-content/new-uploads/2017/11/Neha_Aditya_01.jpg" alt="Best Canon Lenses For Wedding Photography By Indian Wedding Photographer Rish Agarwal" width="702" height="468" data-is-external-image="true"></figure>
 <p>Which means you not only can create great photographic compositions using its 35mm focal length, but also can get detailed close up macro shots using the macro mode. That's two very expensive to have features in a relatively inexpensive lens. And that too, at a fast aperture speed of f1.8. What more can you want?</p>
 <p class="align-center"><a href="https://amzn.to/3fAxaXn" class="btn">Buy Now (Amazon IN)</a></p>
             ]]>
@@ -583,7 +591,7 @@
             <![CDATA[
                 <p>Taj Mahal is an epitome of love. Originally built by the Emperor of Mughals - Shah Jahan in the memory of his beloved wife, Mumtaz mahal, it's one of the seven wonders of the world, situated in Agra, India. What can be more beautiful than getting your pre wedding engagement shoot done at this majestic location?</p>
 <p>We offer the <a href="https://magica.in/tags/pre-wedding/">Best Pre Wedding Engagement Shoot At Taj Mahal</a> in India. We're licensed photographers to shoot there so you don't have to face any issues while getting the photo shoot there.</p>
-<p><img loading="lazy" src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/04/KJ_TajShoot_Mehtab_Morning_059.jpg" data-is-external-image="true" ></p>
+<p><img loading="lazy" src="https://www.rishabhagarwal.com/wp-content/new-uploads/2022/04/KJ_TajShoot_Mehtab_Morning_059.jpg" data-is-external-image="true"></p>
 <p>Here are some posts you should see:</p>
 <ul>
 <li>
